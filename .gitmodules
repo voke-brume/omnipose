@@ -1,4 +1,0 @@
-[submodule "cellpose-omni"]
-	path = cellpose-omni
-	url = https://github.com/kevinjohncutler/cellpose-omni.git
-	branch = master
